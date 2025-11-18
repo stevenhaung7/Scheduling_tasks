@@ -1,0 +1,135 @@
+{
+  "order_date": "2025-11-17",
+  "order_id": "ORDER_003",
+  "description": "第三批測試工單 - 歐美高端車款",
+  "batches": [
+    {
+      "batch_id": "1117_001",
+      "manufacturer": "AUDI",
+      "model": "Q5",
+      "quantity": 14,
+      "system": "歐系",
+      "priority": "high",
+      "due_date": "2025-11-17 16:00"
+    },
+    {
+      "batch_id": "1117_002",
+      "manufacturer": "AUDI",
+      "model": "A4",
+      "quantity": 11,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-17 19:00"
+    },
+    {
+      "batch_id": "1117_003",
+      "manufacturer": "AUDI",
+      "model": "Q7",
+      "quantity": 7,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-17 21:00"
+    },
+    {
+      "batch_id": "1117_004",
+      "manufacturer": "VOLKSWAGEN",
+      "model": "TIGUAN",
+      "quantity": 18,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-17 20:00"
+    },
+    {
+      "batch_id": "1117_005",
+      "manufacturer": "VOLKSWAGEN",
+      "model": "PASSAT",
+      "quantity": 13,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-17 22:00"
+    },
+    {
+      "batch_id": "1117_006",
+      "manufacturer": "保時捷",
+      "model": "CAYENNE",
+      "quantity": 5,
+      "system": "歐系",
+      "priority": "high",
+      "due_date": "2025-11-17 15:00"
+    },
+    {
+      "batch_id": "1117_007",
+      "manufacturer": "保時捷",
+      "model": "MACAN",
+      "quantity": 8,
+      "system": "歐系",
+      "priority": "high",
+      "due_date": "2025-11-17 17:00"
+    },
+    {
+      "batch_id": "1117_008",
+      "manufacturer": "LEXUS",
+      "model": "RX",
+      "quantity": 12,
+      "system": "日系",
+      "priority": "high",
+      "due_date": "2025-11-17 16:30"
+    },
+    {
+      "batch_id": "1117_009",
+      "manufacturer": "LEXUS",
+      "model": "ES",
+      "quantity": 10,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-17 18:00"
+    },
+    {
+      "batch_id": "1117_010",
+      "manufacturer": "LEXUS",
+      "model": "NX",
+      "quantity": 15,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-17 20:30"
+    },
+    {
+      "batch_id": "1117_011",
+      "manufacturer": "陸虎",
+      "model": "RANGE ROVER",
+      "quantity": 6,
+      "system": "歐系",
+      "priority": "high",
+      "due_date": "2025-11-17 14:00"
+    },
+    {
+      "batch_id": "1117_012",
+      "manufacturer": "陸虎",
+      "model": "DEFENDER",
+      "quantity": 9,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-17 19:30"
+    },
+    {
+      "batch_id": "1117_013",
+      "manufacturer": "SUBARU",
+      "model": "FORESTER",
+      "quantity": 16,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-17 21:30"
+    },
+    {
+      "batch_id": "1117_014",
+      "manufacturer": "SUBARU",
+      "model": "OUTBACK",
+      "quantity": 11,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-17 23:00"
+    }
+  ],
+  "total_batches": 14,
+  "total_vehicles": 155
+}

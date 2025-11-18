@@ -1,0 +1,1152 @@
+{
+  "inspection_stations": [
+    "南高檢修站",
+    "北高檢修站",
+    "鳳山檢修站",
+    "楠梓檢修站",
+    "岡山檢修站"
+  ],
+  "inspection_stages": [
+    "車輛外觀檢查",
+    "跑輸送帶電腦掃描",
+    "起重機檢查底盤",
+    "測試(動力測試,排氣測試,儀錶板功能測試,煞車功能測試)",
+    "集貨裝運"
+  ],
+  "vehicles": [
+    {
+      "manufacturer": "TOYOTA",
+      "model": "RAV4",
+      "inspection_times": [20, 10, 30, 50, 60],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "ALTIS",
+      "inspection_times": [10, 10, 20, 30, 20],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "CAMRY",
+      "inspection_times": [15, 12, 25, 40, 35],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "YARIS",
+      "inspection_times": [8, 8, 15, 25, 18],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "PRIUS",
+      "inspection_times": [12, 15, 22, 45, 30],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "VIOS",
+      "inspection_times": [9, 9, 18, 28, 22],
+      "preferred_stations": ["南高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "SIENNA",
+      "inspection_times": [25, 18, 35, 55, 70],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "HIGHLANDER",
+      "inspection_times": [22, 15, 32, 52, 65],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "C-HR",
+      "inspection_times": [18, 12, 28, 48, 55],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "TOYOTA",
+      "model": "COROLLA CROSS",
+      "inspection_times": [16, 11, 26, 46, 50],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "CIVIC",
+      "inspection_times": [11, 10, 22, 35, 25],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "CR-V",
+      "inspection_times": [19, 13, 29, 49, 58],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "ACCORD",
+      "inspection_times": [14, 11, 24, 38, 32],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "FIT",
+      "inspection_times": [7, 8, 16, 26, 20],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "HR-V",
+      "inspection_times": [17, 12, 27, 47, 52],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "ODYSSEY",
+      "inspection_times": [23, 16, 33, 53, 68],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "CITY",
+      "inspection_times": [10, 9, 19, 29, 23],
+      "preferred_stations": ["鳳山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "BR-V",
+      "inspection_times": [18, 13, 28, 48, 54],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "JAZZ",
+      "inspection_times": [8, 8, 17, 27, 21],
+      "preferred_stations": ["岡山檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "HONDA",
+      "model": "PILOT",
+      "inspection_times": [24, 17, 34, 54, 69],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "FOCUS",
+      "inspection_times": [12, 10, 23, 36, 28],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "KUGA",
+      "inspection_times": [20, 14, 30, 50, 60],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "MUSTANG",
+      "inspection_times": [16, 14, 28, 55, 45],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "RANGER",
+      "inspection_times": [26, 18, 36, 58, 72],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "MONDEO",
+      "inspection_times": [15, 12, 25, 40, 34],
+      "preferred_stations": ["南高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "ECOSPORT",
+      "inspection_times": [17, 11, 26, 44, 48],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "EXPLORER",
+      "inspection_times": [25, 19, 35, 56, 71],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "FIESTA",
+      "inspection_times": [9, 9, 18, 28, 22],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "FORD",
+      "model": "ESCAPE",
+      "inspection_times": [19, 13, 29, 49, 57],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "MAZDA3",
+      "inspection_times": [13, 11, 24, 37, 30],
+      "preferred_stations": ["鳳山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "CX-5",
+      "inspection_times": [21, 15, 31, 51, 62],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "CX-3",
+      "inspection_times": [16, 12, 27, 45, 50],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "MAZDA6",
+      "inspection_times": [14, 12, 25, 39, 33],
+      "preferred_stations": ["南高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "CX-9",
+      "inspection_times": [24, 17, 34, 54, 68],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "MX-5",
+      "inspection_times": [11, 10, 20, 42, 28],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "CX-30",
+      "inspection_times": [18, 13, 28, 47, 53],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "MAZDA",
+      "model": "MAZDA2",
+      "inspection_times": [10, 9, 19, 30, 24],
+      "preferred_stations": ["岡山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "ES",
+      "inspection_times": [17, 14, 28, 48, 42],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "RX",
+      "inspection_times": [23, 17, 33, 54, 66],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "NX",
+      "inspection_times": [20, 15, 30, 50, 58],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "UX",
+      "inspection_times": [16, 13, 26, 44, 48],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "IS",
+      "inspection_times": [15, 13, 25, 43, 38],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "LS",
+      "inspection_times": [19, 16, 30, 52, 48],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "GS",
+      "inspection_times": [16, 14, 27, 46, 40],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "LX",
+      "inspection_times": [27, 20, 37, 58, 75],
+      "preferred_stations": ["岡山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "LEXUS",
+      "model": "LC",
+      "inspection_times": [18, 15, 29, 50, 44],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "C-CLASS",
+      "inspection_times": [16, 14, 27, 47, 42],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "E-CLASS",
+      "inspection_times": [18, 15, 29, 50, 46],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "S-CLASS",
+      "inspection_times": [22, 18, 33, 56, 52],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "GLA",
+      "inspection_times": [17, 13, 28, 46, 50],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "GLC",
+      "inspection_times": [21, 16, 31, 52, 62],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "GLE",
+      "inspection_times": [24, 18, 34, 55, 68],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "GLS",
+      "inspection_times": [26, 20, 36, 58, 73],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "A-CLASS",
+      "inspection_times": [14, 12, 25, 42, 38],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "CLA",
+      "inspection_times": [15, 13, 26, 44, 40],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "BENZ",
+      "model": "GLB",
+      "inspection_times": [19, 14, 29, 48, 56],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "3 SERIES",
+      "inspection_times": [17, 14, 28, 48, 43],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "5 SERIES",
+      "inspection_times": [19, 16, 30, 51, 47],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "7 SERIES",
+      "inspection_times": [23, 19, 34, 57, 53],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "X1",
+      "inspection_times": [18, 14, 28, 47, 52],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "X3",
+      "inspection_times": [21, 16, 31, 52, 61],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "X5",
+      "inspection_times": [25, 19, 35, 56, 69],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "X7",
+      "inspection_times": [27, 21, 37, 59, 74],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "2 SERIES",
+      "inspection_times": [15, 13, 26, 43, 39],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "4 SERIES",
+      "inspection_times": [18, 15, 29, 49, 44],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "inspection_times": [16, 14, 27, 50, 41],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "CAYENNE",
+      "inspection_times": [26, 20, 36, 60, 72],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "MACAN",
+      "inspection_times": [22, 17, 32, 54, 64],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "911",
+      "inspection_times": [20, 16, 30, 58, 50],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "PANAMERA",
+      "inspection_times": [24, 18, 34, 56, 55],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "TAYCAN",
+      "inspection_times": [21, 17, 31, 55, 52],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "718",
+      "inspection_times": [19, 15, 29, 56, 48],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "BOXSTER",
+      "inspection_times": [18, 15, 28, 54, 46],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "保時捷",
+      "model": "CAYMAN",
+      "inspection_times": [19, 16, 29, 55, 47],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "208",
+      "inspection_times": [10, 9, 20, 32, 26],
+      "preferred_stations": ["鳳山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "308",
+      "inspection_times": [13, 11, 24, 38, 31],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "508",
+      "inspection_times": [16, 13, 27, 45, 40],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "2008",
+      "inspection_times": [17, 12, 27, 46, 51],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "3008",
+      "inspection_times": [20, 15, 30, 50, 59],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "5008",
+      "inspection_times": [23, 17, 33, 53, 67],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "RIFTER",
+      "inspection_times": [19, 14, 29, 48, 55],
+      "preferred_stations": ["南高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "寶獅",
+      "model": "PARTNER",
+      "inspection_times": [18, 13, 28, 47, 53],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "SPORTAGE",
+      "inspection_times": [20, 14, 30, 50, 60],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "SORENTO",
+      "inspection_times": [24, 17, 34, 54, 68],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "SELTOS",
+      "inspection_times": [18, 13, 28, 47, 54],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "CARNIVAL",
+      "inspection_times": [25, 18, 35, 55, 70],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "STINGER",
+      "inspection_times": [17, 14, 28, 49, 45],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "SOUL",
+      "inspection_times": [15, 12, 25, 42, 48],
+      "preferred_stations": ["鳳山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "NIRO",
+      "inspection_times": [16, 13, 26, 44, 50],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "FORTE",
+      "inspection_times": [12, 10, 23, 36, 29],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "KIA",
+      "model": "K5",
+      "inspection_times": [14, 12, 25, 40, 35],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "TUCSON",
+      "inspection_times": [19, 14, 29, 49, 58],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "SANTA FE",
+      "inspection_times": [23, 17, 33, 53, 66],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "KONA",
+      "inspection_times": [17, 12, 27, 45, 52],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "ELANTRA",
+      "inspection_times": [13, 11, 24, 38, 31],
+      "preferred_stations": ["鳳山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "SONATA",
+      "inspection_times": [15, 13, 26, 42, 37],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "PALISADE",
+      "inspection_times": [26, 19, 36, 57, 72],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "VENUE",
+      "inspection_times": [16, 11, 26, 43, 49],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "IONIQ",
+      "inspection_times": [14, 12, 25, 44, 38],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "現代",
+      "model": "ACCENT",
+      "inspection_times": [11, 10, 21, 34, 27],
+      "preferred_stations": ["鳳山檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "QQ ICE CREAM",
+      "inspection_times": [8, 9, 16, 28, 22],
+      "preferred_stations": ["鳳山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "SMART ELF",
+      "inspection_times": [10, 10, 19, 32, 26],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "E-VOLUTION",
+      "inspection_times": [12, 11, 22, 36, 30],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "T-SPORT",
+      "inspection_times": [14, 12, 24, 40, 34],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "CLOUD RIDER",
+      "inspection_times": [16, 13, 27, 45, 42],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "AI-DRIVE PRO",
+      "inspection_times": [18, 14, 29, 48, 46],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "URBAN PLUS",
+      "inspection_times": [11, 10, 21, 34, 28],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "騰訊",
+      "model": "GREEN MOTION",
+      "inspection_times": [13, 11, 23, 38, 32],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "SU7",
+      "inspection_times": [15, 13, 26, 44, 40],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "SU7 PRO",
+      "inspection_times": [17, 14, 28, 47, 44],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "SU7 MAX",
+      "inspection_times": [19, 15, 30, 50, 48],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "MI-X1",
+      "inspection_times": [14, 12, 25, 42, 38],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "MI-X3",
+      "inspection_times": [18, 14, 29, 48, 52],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "SMART DRIVE",
+      "inspection_times": [16, 13, 27, 45, 43],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "ECO PURE",
+      "inspection_times": [12, 11, 23, 38, 33],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "小米",
+      "model": "ULTRA SPORT",
+      "inspection_times": [17, 14, 28, 49, 45],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "HAN",
+      "inspection_times": [18, 15, 29, 49, 46],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "TANG",
+      "inspection_times": [24, 18, 34, 54, 68],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "SONG PLUS",
+      "inspection_times": [20, 15, 30, 50, 60],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "YUAN PLUS",
+      "inspection_times": [17, 13, 28, 46, 52],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "DOLPHIN",
+      "inspection_times": [14, 12, 25, 41, 36],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "SEAL",
+      "inspection_times": [16, 14, 27, 45, 42],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "ATTO 3",
+      "inspection_times": [19, 14, 29, 48, 56],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "QIN PLUS",
+      "inspection_times": [15, 13, 26, 43, 39],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "E2",
+      "inspection_times": [13, 11, 24, 38, 32],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "比亞迪",
+      "model": "E3",
+      "inspection_times": [14, 12, 25, 40, 35],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "CLIO",
+      "inspection_times": [11, 10, 22, 35, 28],
+      "preferred_stations": ["鳳山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "MEGANE",
+      "inspection_times": [14, 12, 25, 40, 34],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "CAPTUR",
+      "inspection_times": [18, 13, 28, 47, 54],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "KADJAR",
+      "inspection_times": [20, 15, 30, 50, 59],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "KOLEOS",
+      "inspection_times": [23, 17, 33, 53, 66],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "ZOE",
+      "inspection_times": [13, 11, 24, 40, 35],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "TALISMAN",
+      "inspection_times": [16, 13, 27, 45, 41],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "雷諾",
+      "model": "SCENIC",
+      "inspection_times": [19, 14, 29, 48, 56],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "A3",
+      "inspection_times": [15, 13, 26, 43, 39],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "A4",
+      "inspection_times": [17, 14, 28, 47, 43],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "A6",
+      "inspection_times": [19, 16, 30, 50, 47],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "A8",
+      "inspection_times": [23, 18, 34, 56, 53],
+      "preferred_stations": ["楠梓檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "Q3",
+      "inspection_times": [18, 14, 28, 47, 52],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "Q5",
+      "inspection_times": [21, 16, 31, 52, 62],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "Q7",
+      "inspection_times": [25, 19, 35, 56, 70],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "Q8",
+      "inspection_times": [26, 20, 36, 58, 72],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "E-TRON",
+      "inspection_times": [22, 17, 32, 54, 64],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "AUDI",
+      "model": "TT",
+      "inspection_times": [16, 14, 27, 48, 42],
+      "preferred_stations": ["南高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "DEFENDER",
+      "inspection_times": [27, 20, 37, 59, 75],
+      "preferred_stations": ["岡山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "DISCOVERY",
+      "inspection_times": [25, 19, 35, 56, 70],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "RANGE ROVER",
+      "inspection_times": [28, 21, 38, 60, 76],
+      "preferred_stations": ["楠梓檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "RANGE ROVER SPORT",
+      "inspection_times": [26, 20, 36, 58, 73],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "RANGE ROVER EVOQUE",
+      "inspection_times": [22, 17, 32, 53, 64],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "DISCOVERY SPORT",
+      "inspection_times": [23, 17, 33, 54, 66],
+      "preferred_stations": ["南高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "VELAR",
+      "inspection_times": [24, 18, 34, 55, 68],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "陸虎",
+      "model": "FREELANDER",
+      "inspection_times": [21, 16, 31, 52, 62],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "SENTRA",
+      "inspection_times": [12, 10, 23, 36, 29],
+      "preferred_stations": ["鳳山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "ALTIMA",
+      "inspection_times": [15, 13, 26, 42, 37],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "KICKS",
+      "inspection_times": [17, 12, 27, 45, 51],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "X-TRAIL",
+      "inspection_times": [21, 15, 31, 51, 61],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "ROGUE",
+      "inspection_times": [20, 15, 30, 50, 59],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "MURANO",
+      "inspection_times": [23, 17, 33, 53, 65],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "PATHFINDER",
+      "inspection_times": [25, 18, 35, 55, 69],
+      "preferred_stations": ["岡山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "GT-R",
+      "inspection_times": [19, 16, 30, 58, 48],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "LEAF",
+      "inspection_times": [14, 12, 25, 42, 38],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "NISSAN",
+      "model": "JUKE",
+      "inspection_times": [16, 12, 26, 44, 49],
+      "preferred_stations": ["南高檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "OUTLANDER",
+      "inspection_times": [21, 15, 31, 51, 61],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "ECLIPSE CROSS",
+      "inspection_times": [19, 14, 29, 48, 56],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "PAJERO",
+      "inspection_times": [26, 19, 36, 57, 72],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "ASX",
+      "inspection_times": [18, 13, 28, 47, 53],
+      "preferred_stations": ["鳳山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "LANCER",
+      "inspection_times": [13, 11, 24, 38, 31],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "TRITON",
+      "inspection_times": [24, 17, 34, 54, 67],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "XPANDER",
+      "inspection_times": [20, 14, 30, 49, 58],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "COLT",
+      "inspection_times": [11, 10, 21, 34, 27],
+      "preferred_stations": ["鳳山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "MITSUBISHI",
+      "model": "MIRAGE",
+      "inspection_times": [10, 9, 19, 31, 25],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "OUTBACK",
+      "inspection_times": [22, 16, 32, 52, 64],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "FORESTER",
+      "inspection_times": [21, 15, 31, 51, 62],
+      "preferred_stations": ["北高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "XV",
+      "inspection_times": [19, 14, 29, 48, 56],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "IMPREZA",
+      "inspection_times": [14, 12, 25, 41, 36],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "WRX",
+      "inspection_times": [16, 14, 27, 50, 42],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "LEVORG",
+      "inspection_times": [17, 14, 28, 47, 44],
+      "preferred_stations": ["楠梓檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "BRZ",
+      "inspection_times": [15, 13, 26, 48, 40],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "SUBARU",
+      "model": "ASCENT",
+      "inspection_times": [25, 18, 35, 55, 70],
+      "preferred_stations": ["岡山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "GOLF",
+      "inspection_times": [13, 11, 24, 38, 32],
+      "preferred_stations": ["北高檢修站", "鳳山檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "PASSAT",
+      "inspection_times": [16, 13, 27, 45, 40],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "TIGUAN",
+      "inspection_times": [20, 15, 30, 50, 59],
+      "preferred_stations": ["楠梓檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "TOUAREG",
+      "inspection_times": [25, 19, 35, 56, 69],
+      "preferred_stations": ["南高檢修站", "岡山檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "POLO",
+      "inspection_times": [10, 9, 20, 32, 26],
+      "preferred_stations": ["鳳山檢修站", "北高檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "JETTA",
+      "inspection_times": [14, 12, 25, 40, 34],
+      "preferred_stations": ["北高檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "ARTEON",
+      "inspection_times": [18, 15, 29, 49, 45],
+      "preferred_stations": ["南高檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "T-ROC",
+      "inspection_times": [17, 13, 28, 46, 52],
+      "preferred_stations": ["鳳山檢修站", "楠梓檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "ATLAS",
+      "inspection_times": [24, 18, 34, 54, 67],
+      "preferred_stations": ["岡山檢修站", "南高檢修站"]
+    },
+    {
+      "manufacturer": "VOLKSWAGEN",
+      "model": "ID.4",
+      "inspection_times": [19, 15, 30, 50, 57],
+      "preferred_stations": ["北高檢修站", "楠梓檢修站"]
+    }
+  ]
+}

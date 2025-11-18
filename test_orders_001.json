@@ -1,0 +1,117 @@
+{
+  "order_date": "2025-11-15",
+  "order_id": "ORDER_001",
+  "description": "第一批測試工單 - 混合車廠",
+  "batches": [
+    {
+      "batch_id": "1115_001",
+      "manufacturer": "TOYOTA",
+      "model": "RAV4",
+      "quantity": 15,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-15 18:00"
+    },
+    {
+      "batch_id": "1115_002",
+      "manufacturer": "TOYOTA",
+      "model": "ALTIS",
+      "quantity": 20,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-15 20:00"
+    },
+    {
+      "batch_id": "1115_003",
+      "manufacturer": "TOYOTA",
+      "model": "CAMRY",
+      "quantity": 12,
+      "system": "日系",
+      "priority": "high",
+      "due_date": "2025-11-15 16:00"
+    },
+    {
+      "batch_id": "1115_004",
+      "manufacturer": "HONDA",
+      "model": "CR-V",
+      "quantity": 18,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-15 22:00"
+    },
+    {
+      "batch_id": "1115_005",
+      "manufacturer": "HONDA",
+      "model": "CIVIC",
+      "quantity": 10,
+      "system": "日系",
+      "priority": "normal",
+      "due_date": "2025-11-15 19:00"
+    },
+    {
+      "batch_id": "1115_006",
+      "manufacturer": "BENZ",
+      "model": "C-CLASS",
+      "quantity": 8,
+      "system": "歐系",
+      "priority": "high",
+      "due_date": "2025-11-15 17:00"
+    },
+    {
+      "batch_id": "1115_007",
+      "manufacturer": "BENZ",
+      "model": "GLC",
+      "quantity": 14,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-15 21:00"
+    },
+    {
+      "batch_id": "1115_008",
+      "manufacturer": "BMW",
+      "model": "3 SERIES",
+      "quantity": 11,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-15 20:30"
+    },
+    {
+      "batch_id": "1115_009",
+      "manufacturer": "BMW",
+      "model": "X3",
+      "quantity": 16,
+      "system": "歐系",
+      "priority": "normal",
+      "due_date": "2025-11-15 23:00"
+    },
+    {
+      "batch_id": "1115_010",
+      "manufacturer": "FORD",
+      "model": "KUGA",
+      "quantity": 13,
+      "system": "美系",
+      "priority": "normal",
+      "due_date": "2025-11-15 19:30"
+    },
+    {
+      "batch_id": "1115_011",
+      "manufacturer": "FORD",
+      "model": "FOCUS",
+      "quantity": 9,
+      "system": "美系",
+      "priority": "low",
+      "due_date": "2025-11-16 10:00"
+    },
+    {
+      "batch_id": "1115_012",
+      "manufacturer": "FORD",
+      "model": "RANGER",
+      "quantity": 7,
+      "system": "美系",
+      "priority": "normal",
+      "due_date": "2025-11-15 22:30"
+    }
+  ],
+  "total_batches": 12,
+  "total_vehicles": 153
+}
